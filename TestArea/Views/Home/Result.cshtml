@@ -1,0 +1,26 @@
+﻿@model TestArea.Models.Figure
+
+@{
+    ViewBag.Title = "Result";
+}
+
+<h2>Result</h2>
+<style>
+    b {
+        margin-top: 10px;
+    }
+</style>
+<table>
+    @{
+        for (int i = 0; i < Model.x.Length; i++)
+        {
+            <tr>
+                <td>@(i + 1)) x = @Model.x[i] y = @Model.y[i]</td>
+            </tr>
+        }
+    }
+</table>
+<b>Result: @Html.DisplayFor(model => model.area)</b>
+<div>@Html.ActionLink("Open Logger", "Logger", "Home")    @Html.ActionLink("Open Tracer", "Trace", "Home")</div>
+
+

@@ -1,0 +1,99 @@
+2018-09-26 15:47:08,930  INFO  Open StartPage
+2018-09-26 15:47:21,612  INFO  Count the area
+2018-09-26 15:47:21,630  DEBUG In function SetPoints
+2018-09-26 15:47:21,636  DEBUG In function DeleteEmpty
+2018-09-26 15:47:21,645  DEBUG In function RemoveAt
+2018-09-26 15:47:21,650  DEBUG Empty points deleted
+2018-09-26 15:47:21,656  DEBUG All points to the model setted
+2018-09-26 15:47:21,660  DEBUG In function CountArea
+2018-09-26 15:47:21,665  DEBUG Area counted
+2018-09-26 15:52:45,898  INFO  Open StartPage
+2018-09-26 15:52:57,722  INFO  Count the area
+2018-09-26 15:52:57,729  DEBUG In function SetPoints
+2018-09-26 15:52:57,735  DEBUG In function DeleteEmpty
+2018-09-26 15:52:57,743  DEBUG In function RemoveAt
+2018-09-26 15:52:57,750  DEBUG Empty points deleted
+2018-09-26 15:52:57,756  DEBUG All points to the model setted
+2018-09-26 15:52:57,763  DEBUG In function CountArea
+2018-09-26 15:52:57,768  DEBUG Area counted
+2018-09-26 15:53:14,777  INFO  Count the area
+2018-09-26 15:53:14,786  DEBUG In function SetPoints
+2018-09-26 15:53:14,805  DEBUG In function DeleteEmpty
+2018-09-26 15:53:14,812  DEBUG In function RemoveAt
+2018-09-26 15:53:14,819  DEBUG Empty points deleted
+2018-09-26 15:53:14,827  DEBUG All points to the model setted
+2018-09-26 15:53:14,833  DEBUG In function CountArea
+2018-09-26 15:53:14,839  DEBUG Area counted
+2018-09-26 15:53:31,649  INFO  Count the area
+2018-09-26 15:53:31,657  DEBUG In function SetPoints
+2018-09-26 15:53:31,666  DEBUG In function DeleteEmpty
+2018-09-26 15:53:31,670  DEBUG In function RemoveAt
+2018-09-26 15:53:31,675  DEBUG In function RemoveAt
+2018-09-26 15:53:31,680  DEBUG Empty points deleted
+2018-09-26 15:53:31,692  DEBUG All points to the model setted
+2018-09-26 15:53:31,700  DEBUG In function CountArea
+2018-09-26 15:53:31,708  DEBUG Area counted
+2018-09-26 15:55:20,417  INFO  Open StartPage
+2018-09-26 15:55:26,036  INFO  Count the area
+2018-09-26 15:55:26,046  DEBUG In function SetPoints
+2018-09-26 15:55:26,054  DEBUG In function DeleteEmpty
+2018-09-26 15:55:26,064  DEBUG Empty points deleted
+2018-09-26 15:55:26,072  DEBUG All points to the model setted
+2018-09-26 15:55:26,080  DEBUG In function CountArea
+2018-09-26 15:55:26,086  DEBUG Area counted
+2018-09-26 15:59:24,759  INFO  Open StartPage
+2018-09-26 15:59:32,513  INFO  Count the area
+2018-09-26 15:59:32,536  DEBUG In function SetPoints
+2018-09-26 15:59:32,543  DEBUG In function DeleteEmpty
+2018-09-26 15:59:32,549  DEBUG Empty points deleted
+2018-09-26 15:59:32,556  DEBUG All points to the model setted
+2018-09-26 15:59:32,565  DEBUG In function CountArea
+2018-09-26 15:59:32,571  DEBUG Area counted
+2018-09-26 16:00:17,269  INFO  Open StartPage
+2018-09-26 16:00:23,437  INFO  Count the area
+2018-09-26 16:00:23,445  DEBUG In function SetPoints
+2018-09-26 16:00:23,455  DEBUG In function DeleteEmpty
+2018-09-26 16:00:23,461  DEBUG Empty points deleted
+2018-09-26 16:00:23,468  DEBUG All points to the model setted
+2018-09-26 16:00:23,474  DEBUG In function CountArea
+2018-09-26 16:00:23,490  DEBUG Area counted
+2018-09-26 16:19:22,987  INFO  Open StartPage
+2018-09-26 16:19:28,530  INFO  Count the area
+2018-09-26 16:19:28,537  DEBUG In function SetPoints
+2018-09-26 16:19:28,544  DEBUG In function DeleteEmpty
+2018-09-26 16:19:28,585  DEBUG Empty points deleted
+2018-09-26 16:19:28,591  DEBUG All points to the model setted
+2018-09-26 16:19:28,599  DEBUG In function CountArea
+2018-09-26 16:19:28,606  DEBUG Area by X = -189
+2018-09-26 16:19:28,615  DEBUG Area by Y = -189
+2018-09-26 16:19:28,621  DEBUG Area counted
+2018-09-26 16:22:27,279  INFO  Open StartPage
+2018-09-26 16:22:34,460  INFO  Count the area
+2018-09-26 16:22:34,466  DEBUG In function SetPoints
+2018-09-26 16:22:34,471  DEBUG In function DeleteEmpty
+2018-09-26 16:22:34,475  DEBUG Empty points deleted
+2018-09-26 16:22:34,482  DEBUG All points to the model setted
+2018-09-26 16:22:34,487  DEBUG In function CountArea
+2018-09-26 16:22:34,492  DEBUG Area by X = 94.5
+2018-09-26 16:22:34,501  DEBUG Area by Y = 94.5
+2018-09-26 16:22:34,508  DEBUG Area counted
+2018-09-26 16:45:49,100  INFO  Open StartPage
+2018-09-26 16:45:54,473  INFO  Count the area
+2018-09-26 16:45:54,483  DEBUG In function SetPoints
+2018-09-26 16:45:54,492  DEBUG In function DeleteEmpty
+2018-09-26 16:45:54,507  DEBUG Empty points deleted
+2018-09-26 16:45:54,517  DEBUG All points to the model setted
+2018-09-26 16:45:54,526  DEBUG In function CountArea
+2018-09-26 16:45:54,538  DEBUG Area by X = 94.5
+2018-09-26 16:45:54,546  DEBUG Area by Y = 94.5
+2018-09-26 16:45:54,553  DEBUG Area counted
+2018-09-26 16:50:11,732  INFO  Open StartPage
+2018-09-26 16:50:21,565  INFO  Count the area
+2018-09-26 16:50:21,575  DEBUG In function SetPoints
+2018-09-26 16:50:21,588  DEBUG In function DeleteEmpty
+2018-09-26 16:50:21,606  DEBUG Empty points deleted
+2018-09-26 16:50:21,620  DEBUG All points to the model setted
+2018-09-26 16:50:21,635  DEBUG In function CountArea
+2018-09-26 16:50:21,646  DEBUG Area by X = 0
+2018-09-26 16:50:21,654  DEBUG Area by Y = 0
+2018-09-26 16:50:21,666  DEBUG Area counted

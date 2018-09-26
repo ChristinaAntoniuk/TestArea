@@ -1,0 +1,20 @@
+E:\Logger\Logger\bin\Debug\Logger.dll.config
+E:\Logger\Logger\bin\Debug\Logger.dll
+E:\Logger\Logger\bin\Debug\Logger.pdb
+E:\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Logger\Logger\obj\Debug\Logger.dll
+E:\Logger\Logger\obj\Debug\Logger.pdb
+E:\Logger\Logger\bin\Debug\log4net.dll
+E:\Logger\Logger\bin\Debug\log4net.xml
+E:\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+E:\Test Projects\TestArea\Logger\Logger\bin\Debug\Logger.dll.config
+E:\Test Projects\TestArea\Logger\Logger\bin\Debug\Logger.dll
+E:\Test Projects\TestArea\Logger\Logger\bin\Debug\Logger.pdb
+E:\Test Projects\TestArea\Logger\Logger\bin\Debug\log4net.dll
+E:\Test Projects\TestArea\Logger\Logger\bin\Debug\log4net.xml
+E:\Test Projects\TestArea\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+E:\Test Projects\TestArea\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\Test Projects\TestArea\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+E:\Test Projects\TestArea\Logger\Logger\obj\Debug\Logger.dll
+E:\Test Projects\TestArea\Logger\Logger\obj\Debug\Logger.pdb

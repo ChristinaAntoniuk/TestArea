@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Logger" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ILogger_Info_InputMessage">
+    <wsdl:part name="parameters" element="tns:Info" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Info_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Warn_InputMessage">
+    <wsdl:part name="parameters" element="tns:Warn" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Warn_OutputMessage">
+    <wsdl:part name="parameters" element="tns:WarnResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Error_InputMessage">
+    <wsdl:part name="parameters" element="tns:Error" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Error_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ErrorResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Debug_InputMessage">
+    <wsdl:part name="parameters" element="tns:Debug" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Debug_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DebugResponse" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Fatal_InputMessage">
+    <wsdl:part name="parameters" element="tns:Fatal" />
+  </wsdl:message>
+  <wsdl:message name="ILogger_Fatal_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FatalResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ILogger">
+    <wsdl:operation name="Info">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/Info" message="tns:ILogger_Info_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/InfoResponse" message="tns:ILogger_Info_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Warn">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/Warn" message="tns:ILogger_Warn_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/WarnResponse" message="tns:ILogger_Warn_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Error">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/Error" message="tns:ILogger_Error_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/ErrorResponse" message="tns:ILogger_Error_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Debug">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/Debug" message="tns:ILogger_Debug_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/DebugResponse" message="tns:ILogger_Debug_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Fatal">
+      <wsdl:input wsaw:Action="http://tempuri.org/ILogger/Fatal" message="tns:ILogger_Fatal_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ILogger/FatalResponse" message="tns:ILogger_Fatal_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ILogger" type="tns:ILogger">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Info">
+      <soap:operation soapAction="http://tempuri.org/ILogger/Info" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Warn">
+      <soap:operation soapAction="http://tempuri.org/ILogger/Warn" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Error">
+      <soap:operation soapAction="http://tempuri.org/ILogger/Error" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Debug">
+      <soap:operation soapAction="http://tempuri.org/ILogger/Debug" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Fatal">
+      <soap:operation soapAction="http://tempuri.org/ILogger/Fatal" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Logger">
+    <wsdl:port name="BasicHttpBinding_ILogger" binding="tns:BasicHttpBinding_ILogger">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/Logger/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

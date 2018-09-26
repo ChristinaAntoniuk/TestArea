@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@model TestArea.Models.Figure
+
+<style>
+    textarea {
+        height: 200px;
+        width: 400px;
+        margin-top: 10px;
+    }
+
+    label, input {
+        margin-top: 10px;
+    }
+</style> 
+
+@using (Html.BeginForm("SetPoints", "Home"))
+{
+    @Html.Label("Coordinates:")
+    <div>
+        @Html.TextAreaFor(model => model.values);
+    </div>
+    <input type="submit" value="Count" />
+}

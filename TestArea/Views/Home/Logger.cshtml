@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Logger";
+}
+
+<h2>Logger</h2>
+@{
+    var dataFile = Server.MapPath("~/App_Data/TestSquare.log");
+    Array userData = File.ReadAllLines(dataFile);
+    foreach (string dataLine in userData)
+    {
+        @dataLine <text>&nbsp;</text>
+    <br />
+        }
+}
+    <div>@Html.ActionLink("Open Tracer", "Trace", "Home")</div>

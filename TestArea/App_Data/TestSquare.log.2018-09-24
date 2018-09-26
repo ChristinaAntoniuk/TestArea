@@ -1,0 +1,63 @@
+2018-09-24 21:15:29,437  INFO  Open StartPage
+2018-09-24 21:15:32,340  INFO  Count the area
+2018-09-24 21:15:32,347  DEBUG In function SetPoints
+2018-09-24 21:15:32,353  DEBUG In function DeleteEmpty
+2018-09-24 21:15:32,357  DEBUG Empty points deleted
+2018-09-24 21:15:32,361  DEBUG All points to the model setted
+2018-09-24 21:15:32,365  DEBUG In function CountArea
+2018-09-24 21:15:32,379  DEBUG Area counted
+2018-09-24 21:18:04,516  INFO  Open StartPage
+2018-09-24 21:18:07,776  INFO  Count the area
+2018-09-24 21:18:07,785  DEBUG In function SetPoints
+2018-09-24 21:18:07,793  DEBUG In function DeleteEmpty
+2018-09-24 21:18:07,802  DEBUG Empty points deleted
+2018-09-24 21:18:07,812  DEBUG All points to the model setted
+2018-09-24 21:18:07,820  DEBUG In function CountArea
+2018-09-24 21:18:07,828  DEBUG Area counted
+2018-09-24 21:20:48,346  INFO  Count the area
+2018-09-24 21:20:48,353  DEBUG In function SetPoints
+2018-09-24 21:20:48,359  DEBUG In function DeleteEmpty
+2018-09-24 21:20:48,368  DEBUG Empty points deleted
+2018-09-24 21:20:48,372  DEBUG All points to the model setted
+2018-09-24 21:20:48,378  DEBUG In function CountArea
+2018-09-24 21:20:48,385  DEBUG Area counted
+2018-09-24 21:20:52,675  INFO  Open StartPage
+2018-09-24 21:20:55,216  INFO  Count the area
+2018-09-24 21:20:55,221  DEBUG In function SetPoints
+2018-09-24 21:20:55,227  DEBUG In function DeleteEmpty
+2018-09-24 21:20:55,232  DEBUG Empty points deleted
+2018-09-24 21:20:55,236  DEBUG All points to the model setted
+2018-09-24 21:20:55,240  DEBUG In function CountArea
+2018-09-24 21:20:55,245  DEBUG Area counted
+2018-09-24 21:39:52,171  INFO  Open StartPage
+2018-09-24 21:39:58,213  INFO  Count the area
+2018-09-24 21:39:58,221  DEBUG In function SetPoints
+2018-09-24 21:39:58,227  DEBUG In function DeleteEmpty
+2018-09-24 21:39:58,231  DEBUG Empty points deleted
+2018-09-24 21:39:58,238  DEBUG All points to the model setted
+2018-09-24 21:39:58,244  DEBUG In function CountArea
+2018-09-24 21:39:58,254  DEBUG Area counted
+2018-09-24 22:06:16,899  INFO  Open StartPage
+2018-09-24 22:06:20,452  INFO  Count the area
+2018-09-24 22:06:20,461  DEBUG In function SetPoints
+2018-09-24 22:06:20,466  DEBUG In function DeleteEmpty
+2018-09-24 22:06:20,474  DEBUG Empty points deleted
+2018-09-24 22:06:20,482  DEBUG All points to the model setted
+2018-09-24 22:06:20,489  DEBUG In function CountArea
+2018-09-24 22:06:20,501  DEBUG Area counted
+2018-09-24 22:06:47,732  INFO  Open StartPage
+2018-09-24 22:06:48,903  INFO  Count the area
+2018-09-24 22:06:48,909  DEBUG In function SetPoints
+2018-09-24 22:06:48,958  FATAL Object reference not set to an instance of an object.
+2018-09-24 22:08:21,980  INFO  Open StartPage
+2018-09-24 22:08:25,547  INFO  Count the area
+2018-09-24 22:08:25,553  DEBUG In function SetPoints
+2018-09-24 22:08:25,590  FATAL Object reference not set to an instance of an object.
+2018-09-24 22:09:12,382  INFO  Open StartPage
+2018-09-24 22:09:15,391  INFO  Count the area
+2018-09-24 22:09:15,406  DEBUG In function SetPoints
+2018-09-24 22:11:23,558  INFO  Open StartPage
+2018-09-24 22:11:27,050  INFO  Count the area
+2018-09-24 22:11:27,057  DEBUG In function SetPoints
+2018-09-24 22:11:44,359  FATAL Object reference not set to an instance of an object.
+2018-09-24 22:12:28,146  INFO  Open StartPage
